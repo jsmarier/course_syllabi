@@ -1,6 +1,6 @@
 Find in this repository the syllabi of the digital journalism courses I teach at the University of Ottawa.
 
-Trouvez dans ce répositoire répositoire les plans des cours de journalisme numérique que j'enseigne à l'Université d'Ottawa.
+Trouvez dans ce répositoire les plans des cours de journalisme numérique que j'enseigne à l'Université d'Ottawa.
 
 JOU3100 - Digital Journalism I
 Winter/Hiver 2016
