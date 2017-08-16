@@ -1,7 +1,5 @@
 # uottawa-digital-journalism-outlines
-Syllabi for the digital journalism courses I teach at the University of Ottawa. | Plans des cours de journalisme numérique que j'enseigne à l'Université d'Ottawa.
-
-Course list & Description | Liste et description des cours
+List & syllabi of the digital journalism courses I teach at the University of Ottawa. | Liste et plans des cours de journalisme numérique que j'enseigne à l'Université d'Ottawa.
 
 JOU3100 - Digital Journalism I
 Winter/Hiver 2016
