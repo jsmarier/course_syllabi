@@ -1,4 +1,4 @@
-Find in this repository the syllabi of the digital journalism courses I teach at the University of Ottawa.
+<strong>Find in this repository the syllabi of the digital journalism courses I teach at the University of Ottawa.</strong>
 
 Trouvez dans ce répositoire les plans des cours de journalisme numérique que j'enseigne à l'Université d'Ottawa.
 
